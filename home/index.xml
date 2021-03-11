@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fontes</title>
+    <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/</link>
+    <description>Recent content in Homes on Fontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/intro/</guid>
+      <description> Objetivos Relembrar os diferentes tipos de memórias usadas num computador;
+Conhecer as diversas tecnologias relacionadas a natureza das memórias para provê o correto uso e especificação
+ Sumário Características do armazenamento primário e secundário
+Hierarquia de memórias
+Segurança e Dados
+Unidade de armazenamento
+Memória secundária
+  Disco rígido
+  Memória Flash
+  Mídias óticas
+  Nuvem
+   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/hierarquia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/hierarquia/</guid>
+      <description> Hierarquia de memórias  Registrador  Memória Cache  Memória Primária Memória RAM
+ Memória Secundária Menor custo/bit do que memórias primárias
+Não volátil
+Exemplos:
+ Disco rígido Memória Flash Mídias óticas Nuvem   Histórico Histórico do armazenamento digital
+Leitura complementar
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/hd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/hd/</guid>
+      <description> Disco Rígido Hard disk (HD)
+Natureza magnética
+ Componentes Importante: Partes móveis
+ Endereço do dado Discos, Faces, Trilhas, Setores,
+   Dados nos discos Leitura complementar
+ Unidade de armazenamento O que é usado na arquitetura do computador x O que é usado pelos fabricantes (sistema internacional de medidas)
+[kibibyte](https://pt.wikipedia.org/wiki/Byteeu já )
+ Vídeo complementar Histório 1000 vs 1024
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/flash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/flash/</guid>
+      <description> Memória Flash Características:
+ Não volátil Não possuem partes móveis Baixo custo (ainda maior do que HD) Volume reduzido Baixo consumo energético Alta resistência (Durabilidade, segurança)  Desvantagens:
+ Número limitado de operações de leitura/escrita Energização periódica   Onde são usadas? Substituição de ROMs (Placa mãe, microcontroladores, dispositivos embarcados)
+Dispositivos portáteis (pendrive, Flashdrive, Armazenamento externo)
+SSD (Solid State Disk)
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/nuvem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/nuvem/</guid>
+      <description> Nuvem O que é armazenamento na nuvem?
+Tecnologias envolvidas?
+ Preços Google drive
+One drive
+Dropbox
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/oticas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/oticas/</guid>
+      <description> Mídias óticas  Características Diferentes tecnologias
+Capacidade de Armazenamento
+Velocidade
+ROM, R, RW
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/seguranca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/seguranca/</guid>
+      <description> Quiz Qual mídia de armazenamento secundário é o mais seguro?
+Qual a forma mais segura de armazenar dados?
+ Redundância! Todas as mídias tem os seus pontos fracos!
+Quais seriam os pontos fracos das seguintes mídias?
+ Disco rígido Memória Flash Mídias óticas Nuvem   Backup Mídias de natureza diferente
+Localização física diferente
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/raid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/raid/</guid>
+      <description> RAID Arranjo de discos
+Slides
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/data_recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_armazenamento_secundario/home/data_recovery/</guid>
+      <description> Recuperação de arquivos Repositório
+Slides
+ </description>
+    </item>
+    
+  </channel>
+</rss>
